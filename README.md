@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="Eaquo_Assets/banner.png" alt="Eaquo" width="100%"/>
+  <img src="Eaquo_Assets/Eaquo_banner.png" alt="Eaquo" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="Eaquo_Assets/image.svg" width="80" height="80" alt="Eaquo Logo"/>
+  <a href="https://github.com/Eaquo/quickshell-games-launchers">
+    <img src="Eaquo_Assets/image.svg" width="80" height="80" alt="Eaquo Logo"/>
+  </a>
 
   <br/><br/>
 
@@ -33,16 +35,15 @@
 <div align="center">
 
 <a href="https://github.com/Eaquo/quickshell-games-launchers">
-  <img src="https://eaquo-stats.vercel.app/api/pin/?username=Eaquo&repo=quickshell-games-launchers&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0" alt="quickshell-games-launchers"/>
+  <img src="https://github-stats-dun-rho.vercel.app/api/pin/?username=Eaquo&repo=quickshell-games-launchers&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0" alt="quickshell-games-launchers"/>
 </a>
-
 <br/><br/>
-
-<sub>Steam Deck-style game launcher for Hyprland · Available on the AUR</sub>
-
-</div>
-
-<br/>
+<a href="https://aur.archlinux.org/packages/quickshell-games-launchers-git">
+  <img src="https://img.shields.io/aur/version/quickshell-games-launchers-git?style=for-the-badge&logo=archlinux&color=A855F7&labelColor=0D0D0D&label=AUR" alt="AUR"/>
+</a>
+<a href="https://github.com/Eaquo/quickshell-games-launchers/stargazers">
+  <img src="https://img.shields.io/github/stars/Eaquo/quickshell-games-launchers?style=for-the-badge&color=EC4899&labelColor=0D0D0D" alt="Stars"/>
+</a>
 
 ---
 
@@ -94,8 +95,8 @@
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://eaquo-stats.vercel.app/api?username=Eaquo&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&ring_color=FF4D00&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://eaquo-stats.vercel.app/api/top-langs/?username=Eaquo&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C0C0C0&langs_count=6" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-dun-rho.vercel.app/api?username=Eaquo&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&ring_color=FF4D00&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-dun-rho.vercel.app/api/top-langs/?username=Eaquo&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C0C0C0&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -106,12 +107,43 @@
 
 <br/>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eaquo/Eaquo/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eaquo/Eaquo/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Eaquo/Eaquo/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
 ---
+
+## Find me
+
+<div align="center">
+
+<a href="https://github.com/Eaquo">
+  <img src="https://img.shields.io/badge/GitHub-Eaquo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub"/>
+</a>
+<a href="https://aur.archlinux.org/account/Eaquo">
+  <img src="https://img.shields.io/badge/AUR-Eaquo-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0D0D0D" alt="AUR"/>
+</a>
+<a href="https://reddit.com/user/Eaquo">
+  <img src="https://img.shields.io/badge/Reddit-u%2FEaquo-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D0D0D" alt="Reddit"/>
+</a>
+
+</div>
+
+<br/>
 
 <br/>
 
 <div align="center">
-  <img src="Eaquo_Assets/image.svg" width="36" height="36"/>
-  <br/><br/>
   <code>$ Eaquo@dev:~$ echo "Code · Create · Improve · Repeat"</code>
+  <br/><br/>
+  <img src="Eaquo_Assets/image.svg" width="36" height="36"/>
 </div>
+
