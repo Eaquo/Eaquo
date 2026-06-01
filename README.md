@@ -39,11 +39,13 @@
 </a>
 <br/><br/>
 <a href="https://aur.archlinux.org/packages/quickshell-games-launchers-git">
-  <img src="https://img.shields.io/aur/version/quickshell-games-launchers-git?style=for-the-badge&logo=archlinux&color=A855F7&labelColor=0D0D0D&label=AUR" alt="AUR"/>
+  <img src="https://img.shields.io/aur/version/quickshell-games-launchers-git?style=for-the-badge&logo=archlinux&color=A855F7&labelColor=0D0D0D&label=AUR" alt="AUR"/>>
 </a>
 <a href="https://github.com/Eaquo/quickshell-games-launchers/stargazers">
   <img src="https://img.shields.io/github/stars/Eaquo/quickshell-games-launchers?style=for-the-badge&color=EC4899&labelColor=0D0D0D" alt="Stars"/>
 </a>
+
+</div>
 
 ---
 
@@ -128,10 +130,7 @@
 <a href="https://github.com/Eaquo">
   <img src="https://img.shields.io/badge/GitHub-Eaquo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub"/>
 </a>
-<a href="https://aur.archlinux.org/account/Eaquo">
-  <img src="https://img.shields.io/badge/AUR-Eaquo-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0D0D0D" alt="AUR"/>
-</a>
-<a href="https://reddit.com/user/Eaquo">
+<a href="https://www.reddit.com/user/Embarrassed-Ad2725/">
   <img src="https://img.shields.io/badge/Reddit-u%2FEaquo-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D0D0D" alt="Reddit"/>
 </a>
 
@@ -142,7 +141,7 @@
 <br/>
 
 <div align="center">
-  <code>$ Eaquo@dev:~$ echo "Code · Create · Improve · Repeat"</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1500&color=A855F7&center=true&vCenter=true&width=500&lines=%24+echo+Code+%E2%80%A2+Create+%E2%80%A2+Improve+%E2%80%A2+Repeat;%24+exit+0" alt="Footer"/>
   <br/><br/>
   <img src="Eaquo_Assets/image.svg" width="36" height="36"/>
 </div>
