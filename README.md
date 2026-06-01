@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Eaquo_Assets/Eaquo banner.png" alt="Eaquo" width="100%"/>
+  <img src="Eaquo_Assets/banner.png" alt="Eaquo" width="100%"/>
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
 <div align="center">
 
 <a href="https://github.com/Eaquo/quickshell-games-launchers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eaquo&repo=quickshell-games-launchers&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0" alt="quickshell-games-launchers"/>
+  <img src="https://eaquo-stats.vercel.app/api/pin/?username=Eaquo&repo=quickshell-games-launchers&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0" alt="quickshell-games-launchers"/>
 </a>
 
 <br/><br/>
@@ -94,8 +94,8 @@
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eaquo&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&ring_color=FF4D00&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaquo&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C0C0C0&langs_count=6" alt="Top Languages"/>
+  <img height="165" src="https://eaquo-stats.vercel.app/api?username=Eaquo&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&ring_color=FF4D00&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://eaquo-stats.vercel.app/api/top-langs/?username=Eaquo&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C0C0C0&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br/>
